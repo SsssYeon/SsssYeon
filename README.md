@@ -14,5 +14,4 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
  ![Eclipse IDE](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white) 
 
-<br>![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SsssYeon)
-<br>![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SsssYeon&layout=compact)
+<br>![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SsssYeon) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SsssYeon&layout=compact)
